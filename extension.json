@@ -1,9 +1,9 @@
 {
-    "identifier": "dev.pdxcoder.astrobuild",
-    "name": "astro-build",
+    "identifier": "dev.pdxcoder.astronova",
+    "name": "AstroNova",
     "organization": "PdxCoder",
-    "description": "Lorem ipsum, dolor sit amet.",
-    "version": "1.0",
+    "description": "A language extension for Astro files (.astro).",
+    "version": "0.0.1",
     "categories": ["languages"],
     
     "main": "main.js",

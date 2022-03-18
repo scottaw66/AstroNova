@@ -12,7 +12,7 @@ Let's get started!
 🎈 Include a brief description of the features your extension provides. For example:
 -->
 
-**astro-build** provides deep integration with **An Important Language**, including the most important feature, something that's really helpful, and _a little-known secret!_
+**AstroNova** provides integration with the **[Astro static site builder](https://astro.build)**, utilizing the [Astro language server](https://www.npmjs.com/package/@astrojs/language-server) tools.
 
 <!--
 🎈 It can also be helpful to include a screenshot or GIF showing your extension in action:
@@ -38,20 +38,7 @@ astro-build requires some additional tools to be installed on your Mac:
 
 ## Usage
 
-<!--
-🎈 If your extension provides features that are invoked manually, consider describing those options for users:
--->
-
-To run astro-build:
-
-- Select the **Editor → astro-build** menu item; or
-- Open the command palette and type `astro-build`
-
-<!--
-🎈 Alternatively, if your extension runs automatically (as in the case of a validator), consider showing users what they can expect to see:
--->
-
-astro-build runs any time you open a local project, automatically lints all open files, then reports errors and warnings in Nova's **Issues** sidebar and the editor gutter:
+astro-build runs any time you open a local project, automatically lints all open .astro files, then reports errors and warnings in Nova's **Issues** sidebar and the editor gutter:
 
 ![](https://nova.app/images/en/dark/tools/sidebars.png)
 
@@ -64,9 +51,3 @@ astro-build runs any time you open a local project, automatically lints all open
 To configure global preferences, open **Extensions → Extension Library...** then select astro-build's **Preferences** tab.
 
 You can also configure preferences on a per-project basis in **Project → Project Settings...**
-
-<!--
-👋 That's it! Happy developing!
-
-P.S. If you'd like, you can remove these comments before submitting your extension 😉
--->

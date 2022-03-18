@@ -1,3 +1,4 @@
 {
-  "workspace.name" : "astro-build.novaextension"
+  "workspace.color" : 1,
+  "workspace.name" : "astronova.novaextension"
 }
