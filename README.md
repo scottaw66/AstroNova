@@ -3,7 +3,7 @@
 
 Not every extension will need every item described below. Use your best judgement when deciding which parts to keep to provide the best experience for your new users.
 
-💡 Quick Tip! As you edit this README template, you can preview your changes by selecting **Extensions → Activate Project as Extension**, opening the Extension Library, and selecting "astro-build" in the sidebar.
+💡 Quick Tip! As you edit this README template, you can preview your changes by selecting **Extensions → Activate Project as Extension**, opening the Extension Library, and selecting "AstroNova" in the sidebar.
 
 Let's get started!
 -->
@@ -26,9 +26,9 @@ Let's get started!
 🎈 If your extension depends on external processes or tools that users will need to have, it's helpful to list those and provide links to their installers:
 -->
 
-astro-build requires some additional tools to be installed on your Mac:
+AstroNova requires some additional tools to be installed on your Mac:
 
-- [Node.js 8.2.0](https://nodejs.org) and NPM 5.2.0 or newer
+- [Node.js 16.13.0](https://nodejs.org) and NPM 8.4.1 or newer
 
 <!--
 ✨ Providing tips, tricks, or other guides for installing or configuring external dependencies can go a long way toward helping your users have a good setup experience:
@@ -38,7 +38,7 @@ astro-build requires some additional tools to be installed on your Mac:
 
 ## Usage
 
-astro-build runs any time you open a local project, automatically lints all open .astro files, then reports errors and warnings in Nova's **Issues** sidebar and the editor gutter:
+AstroNova runs any time you open a local project, automatically lints all open .astro files, then reports errors and warnings in Nova's **Issues** sidebar and the editor gutter:
 
 ![](https://nova.app/images/en/dark/tools/sidebars.png)
 
@@ -48,6 +48,6 @@ astro-build runs any time you open a local project, automatically lints all open
 🎈 If your extension offers global- or workspace-scoped preferences, consider pointing users toward those settings. For example:
 -->
 
-To configure global preferences, open **Extensions → Extension Library...** then select astro-build's **Preferences** tab.
+To configure global preferences, open **Extensions → Extension Library...** then select AstroNova's **Preferences** tab.
 
 You can also configure preferences on a per-project basis in **Project → Project Settings...**
