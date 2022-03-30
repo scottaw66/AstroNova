@@ -1,18 +1,6 @@
-<!--
-👋 Hello! As Nova users browse the extensions library, a good README can help them understand what your extension does, how it works, and what setup or configuration it may require.
+# AstroNova
 
-Not every extension will need every item described below. Use your best judgement when deciding which parts to keep to provide the best experience for your new users.
-
-💡 Quick Tip! As you edit this README template, you can preview your changes by selecting **Extensions → Activate Project as Extension**, opening the Extension Library, and selecting "AstroNova" in the sidebar.
-
-Let's get started!
--->
-
-<!--
-🎈 Include a brief description of the features your extension provides. For example:
--->
-
-**AstroNova** provides integration with the **[Astro static site builder](https://astro.build)**, utilizing the [Astro language server](https://www.npmjs.com/package/@astrojs/language-server) tools.
+**AstroNova** provides **[Astro](https://astro.build)** language integration for **[Panic Nova](https://nova.app)**, utilizing the [Astro language server](https://www.npmjs.com/package/@astrojs/language-server) tools.
 
 <!--
 🎈 It can also be helpful to include a screenshot or GIF showing your extension in action:
@@ -38,9 +26,7 @@ AstroNova requires some additional tools to be installed on your Mac:
 
 ## Usage
 
-AstroNova runs any time you open a local project, automatically lints all open .astro files, then reports errors and warnings in Nova's **Issues** sidebar and the editor gutter:
 
-![](https://nova.app/images/en/dark/tools/sidebars.png)
 
 ### Configuration
 
